@@ -5,7 +5,7 @@ Simple Rscript that plots a neat graph out of a file.
 
 Requirements:
 
-	# 'ggplot2' is used to for plotting the graph.
+	# 'ggplot2' is used for plotting the graph.
 	# To install ggplot2 do the following in R
 	> install.packages("ggplot2");
 
@@ -26,6 +26,6 @@ Simply do the following
 
 	$ Rscript SimpleGraphPlot.r Input.csv  ";" "Label for X axis" "Label for Y axis" Output.pdf
 
-Where Input.csv is the input file with values separated by ";".
+Where Input.csv is the input file with values separated by commas.
 
 The resulting file looks like this [this](Output.pdf)
