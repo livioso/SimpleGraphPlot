@@ -28,4 +28,4 @@ Simply do the following
 
 Where Input.csv is the input file with values separated by ";".
 
-The resulting file looks like this: ![alt tag](Output.pdf)
+The resulting file looks like [Output.pdf](this)
